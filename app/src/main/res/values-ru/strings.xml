@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Мой KTS Reddit</string>
+    <string name="text_name">Привет, я TextView</string>
+    <string name="button_name">Привет, я Button</string>
+</resources>
